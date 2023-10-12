@@ -36,7 +36,7 @@ language = 'es'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'press'
+html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
 myst_update_mathjax = False
 
@@ -44,11 +44,20 @@ def setup(app):
     app.add_css_file("custom.css")
 
 html_sidebars = {
-    "index": ["aboutme.html"],
-    "sgb": ["socials.html", "archives.html"],
-    "posts/**": ["socials.html","postcard.html", "recentposts.html"],
+    "index": ["aboutme.html",'tagcloud.html'],
+    "sgb": ["socials.html",  "recentposts.html", "archives.html"],
+    "posts/**": ["socials.html", 'postcard.html'],
 }
 
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
 ]
+
+html_theme_options = {
+    "logo": {
+        "text": "BiblioBytes",
+    },
+    "show_prev_next": True,
+}
+
+github_pages = "luis575497"
