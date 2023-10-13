@@ -16,12 +16,17 @@ es mi rincón digital, donde exploramos juntos cómo la tecnología puede revolu
 ==============================
 Categorías
 ==============================
-#. :doc:`Sistema de Gestión Bibliotecaria </sgb>`
+.. grid:: auto
+
+   .. grid-item-card:: 📊 Sistema de Gestión Bibliotecaria
+      :link: sgb
 
 .. toctree::
    :maxdepth: 2
    :caption: Contenidos:
    :hidden:
+
+   blog
 
 ===========================
 Últimas Publicaciones

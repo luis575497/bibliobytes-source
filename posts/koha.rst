@@ -1,12 +1,23 @@
 .. post:: Oct 11, 2023
-   :tags: sgb, catalogación
+   :tags: software, open source, catalogación
    :category: Sistema de Gestión Bibliotecaria
    :author: Luis Enrique Lescano Borrego
-   :language: es
+   :exclude:
+
+   Koha es un sistema integrado de gestión de bibliotecas (SIGB) de código abierto utilizado para administrar bibliotecas y sus recursos. Permite gestionar catálogos, préstamos, adquisiciones, inventarios, y otros aspectos ...
 
 **********
 Koha
 **********
+.. admonition:: Koha Logo
+    :class: sidebar tip
+
+    .. image:: ../_static/images/koha.png
+       :align: center
+       :height: 200
+       :width: 200
+      
+    *Koha es una palabra maorí que significa regalo o donación.*
 
 Koha es un sistema integrado de gestión de bibliotecas (SIGB) de código abierto utilizado para administrar bibliotecas y sus recursos. Permite gestionar catálogos, préstamos, adquisiciones, inventarios, y otros aspectos relacionados con la gestión de una biblioteca.
 
@@ -21,7 +32,7 @@ Las funciones principales de Koha incluyen el registro y catalogación de materi
    | **URL**: https://koha-community.org/download-koha/ 
  
 ======================
-Caracterísitcas
+✨ Caracterísitcas
 ======================
 
 Koha, como software de gestión de bibliotecas de código abierto, presenta diversas características clave:
@@ -32,7 +43,7 @@ Koha, como software de gestión de bibliotecas de código abierto, presenta dive
 #. **Hojas de trabajo configurables**: Permite la personalización de campos de catalogación y definir etiquetas y subcampos específicos según los tipos de materiales que maneja la biblioteca. Esta flexibilidad es fundamental para garantizar la adecuada catalogación de los recursos y facilitar su búsqueda y recuperación.
 
 ======================
-Desvenjatas
+📉 Desvenjatas
 ======================
 
 #. **Soporte y mantenimiento**: Aunque existe una comunidad activa de usuarios y desarrolladores, algunos usuarios pueden enfrentar desafíos para obtener soporte técnico y mantenimiento adecuados, especialmente en comparación con sistemas comerciales que ofrecen asistencia dedicada y contratos de servicio. Además de tener que configurar en un inicio todas las tareas de mantenimiento en el servidor cóm indexación de la base de datos, etc. 
@@ -41,7 +52,7 @@ Desvenjatas
 
 
 ======================
-Enlaces útiles
+🔗 Enlaces útiles
 ======================
 
 #. Aprenda más sobre Koha visitando el sitio web oficial: http://koha-community.org  
@@ -49,7 +60,7 @@ Enlaces útiles
 
 
 ======================
-Notas
+📝 Notas
 ======================
 .. note:: 
    Para la personalización del OPAC he utilizado el complemento Galadriel OPAC Theme Plugin diponible en https://github.com/bywatersolutions/koha-plugin-opac-theme-galadriel. Es un complemento muy sencillo que permite arreglar el estilo del OPAC de manera sencilla y rápida.

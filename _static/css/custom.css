@@ -2,3 +2,23 @@
     margin: 1em auto;
     max-width: 220px;
 }
+
+html {
+    --pst-font-weight-heading: 700;
+    --pst-color-warning: #6610f2;
+}
+
+html[data-theme="light"] {
+    --pst-color-primary: #48566b;
+}
+
+html[data-theme="dark"] {
+    --pst-color-primary: rgb(156,164,175);
+    --pst-color-link: #3FB1C5;
+    --pst-color-background: #14181e;
+    --pst-color-on-background: #222832;
+}
+
+h1 h2 {
+    font-weight: bold;
+}
