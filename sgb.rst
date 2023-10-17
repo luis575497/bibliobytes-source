@@ -1,11 +1,10 @@
-Sistemas de Gestión Bibliotecaria
-==================================
+📊 Sistemas de Gestión Bibliotecaria
+======================================
 Los Sistemas Integrados de Gestión Bibliotecaria son un grupo de programas informáticos relacionados entre sí que 
 automatizan múltiples operaciones y funciones bibliotecarias.
 
-.. postlist:: 
+.. postlist:: 20
    :category: Sistema de Gestión Bibliotecaria
-   :tags: tips
    :date: %A, %B %d, %Y
    :format: {title}
    :list-style: circle

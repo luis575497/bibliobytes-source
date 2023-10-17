@@ -2,7 +2,6 @@
    :tags: software, open source, catalogación
    :category: Sistema de Gestión Bibliotecaria
    :author: Luis Enrique Lescano Borrego
-   :language: es
    :exclude:
 
    Evergreen ILS (Integrated Library System) es un sistema integrado de gestión de bibliotecas que ha sido desarrollado específicamente para satisfacer las necesidades de bibliotecas y centros de información...

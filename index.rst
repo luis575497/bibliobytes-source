@@ -20,6 +20,9 @@ Categorías
 
    .. grid-item-card:: 📊 Sistema de Gestión Bibliotecaria
       :link: sgb
+   
+   .. grid-item-card:: 📁 Repositorios Institucionales
+      :link: repo
 
 .. toctree::
    :maxdepth: 2

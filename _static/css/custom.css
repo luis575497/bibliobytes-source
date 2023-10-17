@@ -10,6 +10,8 @@ html {
 
 html[data-theme="light"] {
     --pst-color-primary: #48566b;
+    --pst-color-link: #0A7D91;
+    --pst-color-warning: #6610f2;
 }
 
 html[data-theme="dark"] {
@@ -17,6 +19,7 @@ html[data-theme="dark"] {
     --pst-color-link: #3FB1C5;
     --pst-color-background: #14181e;
     --pst-color-on-background: #222832;
+    --pst-color-warning: #6610f2;
 }
 
 h1 h2 {
