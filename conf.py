@@ -36,6 +36,8 @@ language = 'es'
 
 html_static_path = ['_static']
 
+html_extra_path = ["_extra"]
+
 # ---------------------------- Theme PyData
 
 html_theme = 'pydata_sphinx_theme'
@@ -57,6 +59,7 @@ html_css_files = [
 
 html_theme_options = {
     "show_prev_next": True,
+    "analytics": {"google_analytics_id": "G-X0SW72PREQ"},
     "logo": {
       "image_light": "_static/images/logo.png",
       "image_dark": "_static/images/logo-dark.png",
@@ -95,5 +98,8 @@ blog_feed_templates = {
 }
 
 github_pages = "luis575497"
-
+blog_feed_archivos = True
 myst_update_mathjax = False
+disqus_shortname = "bibliobytes"
+blog_baseurl = "https://luis575497.github.io/"
+

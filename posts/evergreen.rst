@@ -9,6 +9,7 @@
 **********
 Evergreen
 **********
+:bdg-info-line:`software` :bdg-info-line:`open source` :bdg-info-line:`catalogación`
 
 .. admonition:: Evergreen Software Logo
     :class: sidebar tip

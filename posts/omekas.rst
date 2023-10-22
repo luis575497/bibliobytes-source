@@ -9,6 +9,7 @@
 **********
 Omeka-S
 **********
+:bdg-info-line:`software` :bdg-info-line:`open source` :bdg-info-line:`repositorio`
 
 .. admonition:: Omeka-S Software Logo
     :class: sidebar tip
@@ -70,7 +71,7 @@ Las características y funcionalidades clave de Omeka S incluyen:
 ======================
 🔗 Enlaces útiles
 ======================
-
+git 
 #. Listado de módulos actualizados de Omeka S: https://daniel-km.github.io/UpgradeToOmekaS/omeka_s_modules.html
 #. Listado de temas para Omeka S: https://daniel-km.github.io/UpgradeToOmekaS/omeka_s_themes.html
 

@@ -24,6 +24,9 @@ Categorías
    .. grid-item-card:: 📁 Repositorios Institucionales
       :link: repo
 
+   .. grid-item-card:: ⚙️ Softwares variados
+      :link: varios
+
 .. toctree::
    :maxdepth: 2
    :caption: Contenidos:

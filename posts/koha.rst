@@ -9,6 +9,8 @@
 **********
 Koha
 **********
+:bdg-info-line:`software` :bdg-info-line:`open source` :bdg-info-line:`catalogación`
+
 .. admonition:: Koha Logo
     :class: sidebar tip
 
