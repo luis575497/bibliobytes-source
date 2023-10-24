@@ -6,6 +6,11 @@
 
    DSpace es un sistema de gestión de repositorios de código abierto diseñado para ayudar a las instituciones, como universidades y bibliotecas, a crear, mantener y gestionar repositorios digitales de contenido académico, científico, cultural y otros tipos de información. DSpace proporciona una plataforma para almacenar, organizar, preservar y proporcionar ...
 
+.. meta::
+   :description: DSpace - Sistema de Gestión de Repositorios de Código Abierto y Académicos
+   :keywords: DSpace, gestión de repositorios, código abierto, plataforma de repositorio, software bibliotecario, plataforma de código abierto, gestión de contenido digital
+
+
 **********
 DSpace
 **********

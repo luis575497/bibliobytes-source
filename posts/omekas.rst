@@ -6,6 +6,11 @@
 
    Omeka S (Semantic) es un sistema de gestión de contenidos de software libre diseñado para satisfacer las necesidades de diversas instituciones culturales, tales como bibliotecas, archivos, museos y universidades, permitiéndoles desarrollar una amplia gama de proyectos digitales...
 
+.. meta::
+   :description: Omeka S (Semantic) - Sistema de Gestión de Contenidos Open Source para Instituciones Culturales | Bibliotecas, Museos, Archivos
+   :keywords: Omeka S, Omeka Semantic, gestión de contenidos, software de código abierto, instituciones culturales, bibliotecas, museos, archivos
+
+
 **********
 Omeka-S
 **********

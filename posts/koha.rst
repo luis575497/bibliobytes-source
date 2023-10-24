@@ -6,6 +6,11 @@
 
    Koha es un sistema integrado de gestión de bibliotecas (SIGB) de código abierto utilizado para administrar bibliotecas y sus recursos. Permite gestionar catálogos, préstamos, adquisiciones, inventarios, y otros aspectos ...
 
+.. meta::
+   :description: Koha - Sistema de Gestión de Bibliotecas de Código Abierto | Catálogo en Línea y Préstamo de Materiales
+   :keywords: Koha, gestión de bibliotecas, software de código abierto, catálogo en línea, préstamo de materiales, biblioteca open source
+
+
 **********
 Koha
 **********

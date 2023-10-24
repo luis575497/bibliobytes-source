@@ -6,6 +6,11 @@
 
    Evergreen ILS (Integrated Library System) es un sistema integrado de gestión de bibliotecas que ha sido desarrollado específicamente para satisfacer las necesidades de bibliotecas y centros de información...
 
+.. meta::
+   :description: Evergreen ILS - Sistema de Gestión de Bibliotecas de Código Abierto | Catálogo en Línea y Préstamo de Materiales
+   :keywords: Evergreen ILS, gestión de bibliotecas, código abierto, catálogo en línea, préstamo de materiales, software bibliotecario, biblioteca open source
+
+
 **********
 Evergreen
 **********

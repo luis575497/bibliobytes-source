@@ -6,6 +6,11 @@
 
    LibreBooking es un software de código abierto (open source) que se utiliza para gestionar y reservar recursos compartidos en entornos empresariales y organizacionales. 
 
+.. meta::
+   :description: LibreBooking - Software de Gestión y Reserva de Recursos Compartidos | Programación de Salas y Equipos | Open Source
+   :keywords: LibreBooking, gestión de reservas, software de código abierto, recursos compartidos, programación de salas, reserva de equipos
+
+
 ***************
 LibreBooking
 ***************

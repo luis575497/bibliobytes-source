@@ -1,7 +1,12 @@
-.. BiblioHub documentation master file, created by
+.. BiblioBytes master file, created by
    sphinx-quickstart on Tue Oct 10 17:46:32 2023.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
+
+.. meta::
+   :description: BiblioBytes es tu fuente de información confiable sobre tecnología en bibliotecas. Explora las últimas innovaciones digitales y descubre cómo la tecnología puede revolucionar la experiencia de los usuarios en el mundo de las bibliotecas. Únete a Luis Enrique Lescano, un apasionado bibliotecario, en este viaje digital.
+   :keywords: BiblioBytes, tecnología en bibliotecas, innovaciones digitales, bibliotecario, tecnología, experiencia del usuario, información, comunidad, Luis Enrique Lescano
+
 
 ¡Bienvenido a BiblioBytes! 
 ===========================
@@ -17,6 +22,7 @@ es mi rincón digital, donde exploramos juntos cómo la tecnología puede revolu
 Categorías
 ==============================
 .. grid:: auto
+   :gutter: 2
 
    .. grid-item-card:: 📊 Sistema de Gestión Bibliotecaria
       :link: sgb
@@ -32,7 +38,9 @@ Categorías
    :caption: Contenidos:
    :hidden:
 
+   cursos
    blog
+   sobre-mi
 
 ===========================
 Últimas Publicaciones

@@ -20,6 +20,7 @@ extensions = [
 "sphinx_panels",
 "myst_parser",
 "sphinx_design",
+'sphinx_sitemap',
 ]
 
 templates_path = ['_templates']
@@ -44,12 +45,15 @@ html_theme = 'pydata_sphinx_theme'
 
 def setup(app):
     app.add_css_file("custom.css")
+    app.add_js_file("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8416127096876016",loading_method="async")
 
 html_sidebars = {
     "index": ["aboutme.html",'tagcloud.html'],
-    "sgb": ["socials.html",  "recentposts.html", "archives.html"],
-    "blog":["socials.html", "categories.html", "tagcloud.html", "archives.html"],
-    "posts/**": ["socials.html", 'postcard.html'],
+    "sobre-mi":["sidebar-nav-bs"],
+    "cursos": ["aboutme.html",'tagcloud.html'],
+    "sgb": ["aboutme.html",  "recentposts.html", "archives.html"],
+    "blog":["aboutme.html", "categories.html", "tagcloud.html", "archives.html"],
+    "posts/**": ["aboutme.html", 'postcard.html'],
 }
 
 html_css_files = [
@@ -78,6 +82,7 @@ html_theme_options = {
             "type": "fontawesome",
         },
     ],
+    "announcement": '¡Potencia tu carrera con nuestros <a href="https://luis575497.github.io/cursos/">cursos de biblioteca</a> en BiblioBytes! 📚💡',
 }
 
 html_context = {
@@ -103,3 +108,6 @@ myst_update_mathjax = False
 disqus_shortname = "bibliobytes"
 blog_baseurl = "https://luis575497.github.io/"
 
+
+# ------------------------------------------ SiteXML
+html_baseurl = "https://luis575497.github.io/"
