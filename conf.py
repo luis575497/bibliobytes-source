@@ -45,11 +45,12 @@ html_theme = 'pydata_sphinx_theme'
 
 def setup(app):
     app.add_css_file("custom.css")
-    app.add_js_file("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8416127096876016",loading_method="async")
+    app.add_js_file("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2719430950228844",loading_method="async")
 
 html_sidebars = {
     "index": ["aboutme.html",'tagcloud.html'],
     "sobre-mi":["sidebar-nav-bs"],
+    "recursos-gratis/**":["sidebar-nav-bs"],
     "cursos": ["aboutme.html",'tagcloud.html'],
     "sgb": ["aboutme.html",  "recentposts.html", "archives.html"],
     "blog":["aboutme.html", "categories.html", "tagcloud.html", "archives.html"],

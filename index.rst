@@ -40,6 +40,7 @@ Categorías
 
    cursos
    blog
+   recursos-gratis/recursos
    sobre-mi
 
 ===========================

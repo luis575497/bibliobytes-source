@@ -83,8 +83,20 @@ Las principales funciones y características de DSpace desde su versión 7.x inc
 ======================
 📝 Notas
 ======================
+
 .. note:: 
    Es posible llevar a cabo integraciones con la API de ORCID para lograr diversas funcionalidades. Entre ellas se incluye la autenticación de usuarios, la recolección de datos del perfil del autor de ORCID y, si se cuenta con una membresía, la actualización de información biográfica y publicaciones desde DSpace.
 
 .. note:: 
    Se permite la utilización de vocabularios controlados para los campos en el formulario de envío en DSpace, lo que habilita la implementación de taxonomías para una organización más efectiva del contenido. Para llevar a cabo esta tarea, es posible emplear software especializado como `TemaTres <https://vocabularyserver.com/web/>`_. Los vocabularios controlados y taxonomías resultan particularmente útiles para estructurar y categorizar los materiales en el repositorio, lo que a su vez mejora la búsqueda, la navegación y la recuperación de información para los usuarios.
+
+
+======================
+➡️ Posts Relacionados
+======================
+
+* :doc:`Actualización a Dspace 7 </posts/dspace7-migrations>`
+
+
+
+
