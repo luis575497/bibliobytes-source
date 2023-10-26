@@ -8,7 +8,7 @@
 
 .. meta::
    :description: Descubre los pasos clave para llevar a cabo la migración o actualización a DSpace 7, un proceso que requiere una cuidadosa planificación y ejecución. Asegúrate de preparar tu servidor, hacer una copia de seguridad de la base de datos, migrar el backend de DSpace 7 y más. Además, conoce los requisitos y la documentación útil para una actualización exitosa.
-   :keywords: DSpace 7, migración a DSpace 7, actualización de repositorio, preparación para DSpace 7, fase de migración, requisitos del repositorio, copia de seguridad, indexación de contenidos, actualización de software, documentación DSpace, actualización exitosa, migración de repositorios
+   :keywords: DSpace 7, migración a DSpace 7, actualización de repositorio, preparación para DSpace 7, requisitos del repositorio, copia de seguridad, indexación de contenidos, actualización de software, documentación DSpace, actualización exitosa, migración de repositorios
 
 
 =================================

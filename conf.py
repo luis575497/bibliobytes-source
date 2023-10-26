@@ -21,6 +21,7 @@ extensions = [
 "myst_parser",
 "sphinx_design",
 'sphinx_sitemap',
+"sphinx_gitstamp",
 ]
 
 templates_path = ['_templates']
@@ -65,6 +66,7 @@ html_css_files = [
 html_theme_options = {
     "show_prev_next": True,
     "analytics": {"google_analytics_id": "G-X0SW72PREQ"},
+    "article_footer_items": ["gitstamp"],
     "logo": {
       "image_light": "_static/images/logo.png",
       "image_dark": "_static/images/logo-dark.png",
