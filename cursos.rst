@@ -56,3 +56,11 @@
 Si tu biblioteca, entidad o asociación está interesada en la organización de cursos en línea enfocados en la formación bibliotecaria, como catalogación, repositorios institucionales, alfabetización informacional o softwares bibliotecarios, no dudes en ponerte en contacto conmigo a través del formulario que encontrarás a continuación. Estoy aquí para colaborar contigo en la capacitación que necesitas.
 
 - Correo Electrónico: luis575497@gmail.com
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contenidos:
+   :hidden:
+
+   cursos/dspace

@@ -21,8 +21,13 @@ extensions = [
 "myst_parser",
 "sphinx_design",
 'sphinx_sitemap',
-"sphinx_gitstamp",
+"notfound.extension",
+"sphinx.ext.graphviz",
+"sphinxcontrib.blockdiag",
 ]
+
+graphviz_output_format = 'svg'
+plot_format = dict(html='svg', latex='pdf')
 
 templates_path = ['_templates']
 
@@ -52,7 +57,8 @@ html_sidebars = {
     "index": ["aboutme.html",'tagcloud.html'],
     "sobre-mi":["sidebar-nav-bs"],
     "recursos-gratis/**":["sidebar-nav-bs"],
-    "cursos": ["aboutme.html",'tagcloud.html'],
+    "cursos": ["sidebar-nav-bs","aboutme.html",'tagcloud.html'],
+    "cursos/**": ["sidebar-nav-bs","aboutme.html"],
     "sgb": ["aboutme.html",  "recentposts.html", "archives.html"],
     "blog":["aboutme.html", "categories.html", "tagcloud.html", "archives.html"],
     "posts/**": ["aboutme.html", 'postcard.html'],
@@ -66,7 +72,7 @@ html_css_files = [
 html_theme_options = {
     "show_prev_next": True,
     "analytics": {"google_analytics_id": "G-X0SW72PREQ"},
-    "article_footer_items": ["gitstamp"],
+    "navbar_end": ["navbar-icon-links","searchbox.html"],
     "logo": {
       "image_light": "_static/images/logo.png",
       "image_dark": "_static/images/logo-dark.png",
@@ -114,3 +120,6 @@ blog_baseurl = "https://luis575497.github.io/"
 
 # ------------------------------------------ SiteXML
 html_baseurl = "https://luis575497.github.io/"
+
+
+blockdiag_fontpath = "_static/images/font/droid-serif.regular.ttf"

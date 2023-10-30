@@ -68,3 +68,7 @@ Con la finalidad de poder emplear todas las caracterísitcas del sofware conside
 #. `Análisis de estrategias de actualización de repositorios digitales a DSpace 7 <https://revistas.um.es/analesdoc/article/view/567401>`_
 #. `Desarrollo del método automático para la actualización de repositorios institucionales basados en DSpace <https://revistas.utp.ac.pa/index.php/memoutp/article/view/1843/html>`_
 #. `Experiencias en la migración de un repositorio - ISTEC <https://submissions.istec.org/index.php/biredial-istec/article/download/183/23/623>`_
+
+.. update:: 26-10-2023
+
+    Se actualizaron y agregaron links en la Sección de **➡️ Documentación útil**
