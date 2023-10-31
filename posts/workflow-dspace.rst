@@ -4,7 +4,7 @@
    :author: Luis Enrique Lescano Borrego
    :exclude:
 
-   Los flujos de trabajo en DSpace 7 desempeñan un papel fundamental en la gestión de contenido. Establecer un flujo de trabajo adecuado proporciona numerosos beneficios:
+   En la rutina diaria, bibliotecarios y gestores de repositorios se enfrentan a un constante flujo de solicitudes de publicación en sus repositorios, lo cual puede complicar y ralentizar significativamente su trabajo. Por tanto, la eficaz gestión de contenido se convierte en una estrategia esencial para agilizar los procesos de publicación en colecciones digitales.
 
 .. meta::
    :keywords: DSpace 7, flujos de trabajo, gestión de colecciones digitales, organización, control de calidad, coordinación, grupos de usuarios, permisos, planificación, roles.

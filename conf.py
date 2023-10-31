@@ -24,6 +24,7 @@ extensions = [
 "notfound.extension",
 "sphinx.ext.graphviz",
 "sphinxcontrib.blockdiag",
+"sphinx_favicon",
 ]
 
 graphviz_output_format = 'svg'
@@ -72,7 +73,8 @@ html_css_files = [
 html_theme_options = {
     "show_prev_next": True,
     "analytics": {"google_analytics_id": "G-X0SW72PREQ"},
-    "navbar_end": ["navbar-icon-links","searchbox.html"],
+    "navbar_persistent": ["search-field"],
+    "navbar_end": ["theme-switcher","navbar-icon-links"],
     "logo": {
       "image_light": "_static/images/logo.png",
       "image_dark": "_static/images/logo-dark.png",
@@ -88,6 +90,12 @@ html_theme_options = {
             "name": "ORCID",
             "url": "https://orcid.org/0000-0001-7921-4228",
             "icon": "fa-brands fa-orcid fa-2xl",
+            "type": "fontawesome",
+        },
+        {
+            "name": "Telegram",
+            "url": "https://t.me/+YOGWLBReaGYwMzRh",
+            "icon": "fa-brands fa-telegram fa-2xl",
             "type": "fontawesome",
         },
     ],
@@ -123,3 +131,9 @@ html_baseurl = "https://luis575497.github.io/"
 
 
 blockdiag_fontpath = "_static/images/font/droid-serif.regular.ttf"
+
+
+favicons = [
+    "favicon-16x16.png",
+    "favicon-32x32.png",
+]
