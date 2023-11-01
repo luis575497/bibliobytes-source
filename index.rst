@@ -32,6 +32,9 @@ Categorías
 
    .. grid-item-card:: ⚙️ Softwares variados
       :link: varios
+   
+   .. grid-item-card:: 🔍 Tendencias en Bibliotecas
+      :link: trends
 
 .. toctree::
    :maxdepth: 2

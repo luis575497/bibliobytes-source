@@ -9,13 +9,13 @@
 
 En este curso, te sumergirás en el fascinante universo de los Repositorios Institucionales y DSpace 7. Aquí hay algunas razones por las que este curso es una excelente inversión:
 
-1. Aprendizaje completo: Cubriremos desde los conceptos fundamentales de los repositorios institucionales hasta las características más avanzadas de DSpace 7. No importa tu nivel de experiencia, este curso te proporcionará las bases y te desafiará con contenido avanzado.
+1. **Aprendizaje completo:** Cubriremos desde los conceptos fundamentales de los repositorios institucionales hasta las características más avanzadas de DSpace 7. No importa tu nivel de experiencia, este curso te proporcionará las bases y te desafiará con contenido avanzado.
 
-2. Facilidad de acceso: Con la opción de instalación de DSpace utilizando Docker, te proporcionamos una manera sencilla de configurar tu propio entorno para practicar y aprender.
+2. **Facilidad de acceso:** Con la opción de instalación de DSpace utilizando Docker, te proporcionamos una manera sencilla de configurar tu propio entorno para practicar y aprender.
 
-3. Profesionales experimentados: Cuento con más de de 8 años de experiencia en DSpace y estoy aquí para responder a tus preguntas y guiarte en cada paso del camino.
+3. **Profesionales experimentados:** Cuento con más de de 8 años de experiencia en DSpace y estoy aquí para responder a tus preguntas y guiarte en cada paso del camino.
 
-4. Certificado de finalización: Al finalizar el curso, recibirás un certificado que acreditará tus habilidades y conocimientos. Este certificado puede ser un gran activo para tu carrera profesional.
+4. **Certificado de finalización:** Al finalizar el curso, recibirás un certificado que acreditará tus habilidades y conocimientos. Este certificado puede ser un gran activo para tu carrera profesional.
 
 
 💡¿Qué aprenderás?
@@ -45,7 +45,7 @@ Inscribirse en este curso es muy sencillo. Solo sigue estos pasos:
     Inscripción en el curso
 
 
-🤷‍♂️🤷‍♀️ ¿Tienes preguntas?
+🤷‍♀️ ¿Tienes preguntas?
 =================================
 
 Entendemos que puedas tener algunas preguntas antes de inscribirte. Estamos aquí para ayudarte. Si tienes inquietudes o necesitas más información, no dudes en contactarnos en 📧 luis575497@gmail.com o a través de mi `Linkedin <https://www.linkedin.com/in/luis-enrique-lescano/>`_ . Estamos encantados de responder a todas tus preguntas.

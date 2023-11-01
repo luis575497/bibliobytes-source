@@ -64,3 +64,4 @@ Si tu biblioteca, entidad o asociación está interesada en la organización de 
    :hidden:
 
    cursos/dspace
+   cursos/ia-biblio

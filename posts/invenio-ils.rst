@@ -4,11 +4,11 @@
    :author: Luis Enrique Lescano Borrego
    :exclude:
 
-   Koha es un sistema integrado de gestión de bibliotecas (SIGB) de código abierto utilizado para administrar bibliotecas y sus recursos. Permite gestionar catálogos, préstamos, adquisiciones, inventarios, y otros aspectos ...
+   Invenio ILS es un sistema de gestión de bibliotecas de código abierto diseñado para optimizar y simplificar la administración de recursos bibliográficos, así como facilitar el acceso y la búsqueda de información en entornos bibliotecarios y de gestión de colecciones.
 
 .. meta::
-   :description: Koha - Sistema de Gestión de Bibliotecas de Código Abierto | Catálogo en Línea y Préstamo de Materiales
-   :keywords: Koha, gestión de bibliotecas, software de código abierto, catálogo en línea, préstamo de materiales, biblioteca open source
+   :description: Invenio ILS - Sistema de Gestión de Bibliotecas de Código Abierto | Catalogación y Acceso a Recursos Bibliográficos
+   :keywords:  Invenio ILS, software de código abierto, catalogación, biblioteca, gestión de colecciones, CERN, Integrated Library System, API REST
 
 
 ***************
@@ -84,4 +84,4 @@ Invenio ILS ofrece una variedad de funcionalidades clave:
    Invenio ILS se puede instalar localmente con Docker para fines de prueba y evaluación. Esto te permite explorar sus características en un entorno controlado antes de una implementación completa. Asegúrate de consultar la documentación de Invenio para obtener instrucciones detalladas sobre la instalación a través de Docker. La instalación de esta manera puede llegar generar problemas.
 
 .. note:: 
-     Invenio ILS no solo permite la gestión de libros electrónicos en acceso abierto y restringido, sino que también facilita la realización de préstamos de estos recursos, ofreciendo a las bibliotecas una solución integral para la administración y el acceso a colecciones digitales.
+   Invenio ILS no solo permite la gestión de libros electrónicos en acceso abierto y restringido, sino que también facilita la realización de préstamos de estos recursos, ofreciendo a las bibliotecas una solución integral para la administración y el acceso a colecciones digitales.
