@@ -6,6 +6,9 @@
 
    En la era digital, las fototecas se erigen como guardianas de momentos capturados en el tiempo, desde retratos históricos hasta instantáneas contemporáneas. El proceso de descripción y catalogación de estas imágenes ha sido históricamente laborioso, demandando tiempo y extensas investigaciones. 
 
+.. meta::
+   :keywords: Fototecas, descripción de fotos, Inteligencia Artificial, accesibilidad, tecnología, bibliotecas
+   :description: Descubre cómo la Inteligencia Artificial está transformando la forma en que las fototecas gestionan y describen sus valiosas colecciones de imágenes en la era digital. Explora los avances tecnológicos, los beneficios y las consideraciones éticas en este emocionante campo.
 
 
 *********************************************************
