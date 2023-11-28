@@ -13,3 +13,4 @@ En esta sección, te ofrezco una cuidadosa selección de recursos gratuitos que 
    :caption: Contenidos:
 
    bibliometria
+   gestion-biblioteca
